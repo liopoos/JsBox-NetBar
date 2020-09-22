@@ -8,7 +8,7 @@ A simple widget to show network speed, support Wi-Fi and Cellular.
 
 ## Installation
 
-[NetBar](https://xteko.com/redir?name=NetBar&url=https://github.com/mayuko2012/JsBox-NetBar/releases/download/0.0.2/NetBar.box)
+[NetBar](https://xteko.com/redir?name=NetBar&url=https://github.com/mayuko2012/JsBox-NetBar/releases/download/0.0.5/NetBar.box)
 
 
 
