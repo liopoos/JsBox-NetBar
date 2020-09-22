@@ -13,7 +13,6 @@ var up = 0,
 
 function load() {
   view.render()
-  console.log($network.interfaces)
   let conf = default_conf
   conf = getNetwork(conf)
   var timer = $timer.schedule({
@@ -72,7 +71,7 @@ function getIfaData(type) {
     down = ifa_data.received
   }
 
-  now_speed = {
+  var now_speed = {
     'up': formatSpeed(ifa_data.sent - up),
     'down': formatSpeed(ifa_data.received - down)
   }
@@ -92,9 +91,9 @@ function getInterface(type) {
     case 1:
       interfaces = interfaces['en0/ipv4']
       break;
-      case 2:
-        interfaces = interfaces['lo0/ipv4']
-        break;
+    case 2:
+      interfaces = interfaces['lo0/ipv4']
+      break;
     default:
       interfaces = 'N/A'
   }
