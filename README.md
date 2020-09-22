@@ -2,13 +2,13 @@
 
 ![LICENSE](https://img.shields.io/github/license/mayuko2012/JsBox-NetBar) ![GitHub issues](https://img.shields.io/github/issues/mayuko2012/JsBox-NetBar)
 
-A simple widget to show network speed, suport Wi-F- and Cellular.
+A simple widget to show network speed, support Wi-Fi and Cellular.
 
 
 
 ## Installation
 
-[NetBar](https://xteko.com/redir?name=NetBar&url=https://github.com/mayuko2012/JsBox-NetBar/releases/download/0.0.1/NetBar.box)
+[NetBar](https://xteko.com/redir?name=NetBar&url=https://github.com/mayuko2012/JsBox-NetBar/releases/download/0.0.2/NetBar.box)
 
 
 
