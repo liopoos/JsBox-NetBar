@@ -14,7 +14,7 @@ A simple widget to show network speed, support Wi-Fi and Cellular.
 
 ## Preview
 
-![screenshots](https://cdn.mayuko.cn/blog/20200922100550.jpg)
+![screenshot](https://cdn.mayuko.cn/blog/20200922183057.png)
 
 
 
